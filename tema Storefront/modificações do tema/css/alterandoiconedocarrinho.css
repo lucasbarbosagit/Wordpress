@@ -1,0 +1,5 @@
+/* alterando o ícone da cesta para o carrinho do fontawesome */
+
+#site-header-cart > li:nth-child(1) > a::after{
+    content: "\f07a";    
+}

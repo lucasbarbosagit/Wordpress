@@ -1,0 +1,8 @@
+/* Incluindo outras fontes para elementos de titulos e textos ou para qualquer outro elemento que quiser */
+body, p, button, input, textarea {
+	font-family: 'Open Sans', sans-serif;	
+}
+#masthead > div > nav, #site-header-cart, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Oswald', sans-serif;
+
+}

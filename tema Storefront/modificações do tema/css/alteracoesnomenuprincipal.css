@@ -1,0 +1,6 @@
+/* alterações no menu principal */
+#masthead {
+    position: fixed; /* caso queira o menu fixo ou sticky header */
+    border-bottom: 3px solid rgb(255, 107, 51); /* caso queira uma borda de qualquer cor abaixo do menu */
+    z-index: 999; /* deixar o z-index com 999, pois ele tem que aparecer por cima de tudo para não dar problemas com outros plugins como por exemplo o plugin para dar zoom em imagens, para não conflitar. */
+}
